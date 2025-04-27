@@ -1,0 +1,9 @@
+
+    
+s = "ZOPBKI4I4KiVYBt0M9gG3eiL8O07BF2xzj0WGj0yAcanthosauraQE1UZT8ttZvBEK7jqVPqKC1IUoyjroIlNXjUTh55U9qFGGrU6TUB7uYJ0gn3THG2GxrSUNXHN8WCDaYvGkVreu9LlZUKRhKKvCSGcirciaevBcbjPX4c9hehCqMaIdCS405IHmZ1BPqYKmuY2a."
+a = 40   
+b = 51
+c = 152
+d = 157
+print (s[a:b+1] + " " + s[c:d+1])
+

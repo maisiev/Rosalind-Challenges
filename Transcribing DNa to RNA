@@ -1,0 +1,5 @@
+file = open('/Users/maisievarcoe/Downloads/Python/Source Code/Rosalind-Challenges/rosalind_rna.txt', 'r')
+print(file.read().replace('T','U'))
+file.close()
+
+

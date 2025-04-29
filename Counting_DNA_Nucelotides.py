@@ -17,8 +17,5 @@ for char in base_count:
         print(char, end=' ')  
 file.close()
 
-    # To split characters in a string when there's no space between them,
-    # you can iterate through the string directly.
-    # Example:
-
+  
 

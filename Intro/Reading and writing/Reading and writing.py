@@ -15,8 +15,11 @@
    #         print(line, end="")
     
     
-f = open('rosalind_ini5(1).txt', 'r')
-g = open('output.txt', 'w')
+f = open('/Users/maisievarcoe/Downloads/Python/Source Code/Rosalind-Challenges/Reading and writing/rosalind_ini5.txt', 'r')
+g = open('AlwaysLookOnTheBrightSide', 'w')
 for x in f.readlines()[1::2]:
   g.write(x)
+  print(x)
 g.close()
+
+

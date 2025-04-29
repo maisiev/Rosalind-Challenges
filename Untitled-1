@@ -1,3 +1,0 @@
-file = open('/Users/maisievarcoe/Downloads/Python/Source Code/Rosalind-Challenges/rosalind_ini6.txt', 'r')
-    words = file.read().split()
-    

@@ -17,19 +17,6 @@ def main():
     file.close()
     return       
 
-class Person:
-    def __init__(self, name,age):
-        self.name = name  # Initialize the 'name' attribute
-        self.age = age  # Initialize the 'name' attribute
-
-# Create an object of the class
-obj = Person("Maisie", 22)
-print(obj.name)  # Output: Maisie
-
-# create an array of class type person 
-
-
-
 if __name__  == "__main__":
     main()
 
